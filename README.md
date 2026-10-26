@@ -68,5 +68,5 @@ These additional variables would help explain why customers churn and support mo
 ## Project Files
 
 - **[Excel Workbook](excel/customer_churn_retention_analysis.xlsx)** -Complete analysis, including the executive summary, methodology, PivotTables, charts, and findings.
-- **[Dataset](data/telco_churn.csv)** - Original Telco Customer Churn dataset used for the analysis.
+- **[Dataset](data/Telco-Customer-Churn.csv)** - Original Telco Customer Churn dataset used for the analysis.
 - **[Visualizations](images/)** - Screenshots of the executive summary, methodology, and individual analyses.
