@@ -46,9 +46,6 @@ The analysis focuses on observed relationships and does not establish causation.
 
 ## Business Implications
 
-
-## Business Implications
-
 The findings suggest several areas for further investigation by customer success and retention teams:
 
 1. **Contract strategy:** Investigate retention opportunities for month-to-month customers and evaluate whether contract flexibility or incentives influence retention.
